@@ -1,0 +1,13 @@
+intro {
+    font-style: italic;
+}
+h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: larger;
+  color: cyan;
+}
+h2{
+   font: outline;
+   font-size: medium;
+   color: darkkhaki;
+}   
