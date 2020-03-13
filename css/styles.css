@@ -1,6 +1,7 @@
 background {color:palevioletred:
 }
 h1{
+  font-variant-position: normal;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: larger;
   color: cyan;
@@ -10,3 +11,6 @@ h2{
    font-size: medium;
    color: darkkhaki;
 }   
+p{
+  font-family: sans-serif;
+}
