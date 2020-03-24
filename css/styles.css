@@ -14,3 +14,12 @@ h2{
 p{
   font-family: sans-serif;
 }
+.important {
+  color: red;
+}
+.unimportant {
+  color: blue;
+}
+.Behavior {
+  background-color:brown;
+}
